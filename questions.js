@@ -10,5 +10,13 @@ exports.questions =[
 {
 	full: "There are 7 Harry Potter Books",
 	cloze: "7"
+},
+{
+	full: "Jon Jones is the UFC Light Heavyweight Champ",
+	cloze: "Jones"
+},
+{
+	full: "Tom Brady has won 5 Super Bowls",
+	cloze: "5"
 }
 ]
